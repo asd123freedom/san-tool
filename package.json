@@ -1,0 +1,22 @@
+{
+  "name": "san-tool",
+  "version": "1.0.0",
+  "description": "a toolkit for San",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asd123freedom/san-tool.git"
+  },
+  "keywords": [
+    "san"
+  ],
+  "author": "asd123freedom@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asd123freedom/san-tool/issues"
+  },
+  "homepage": "https://github.com/asd123freedom/san-tool#readme"
+}
